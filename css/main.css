@@ -154,6 +154,10 @@
     word-wrap: break-word;
   }
 
+  #HBD {
+    font-size: 6em;
+  }
+
   .shadow-box img {
     display: block;
     width: 100%;
